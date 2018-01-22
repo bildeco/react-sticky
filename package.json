@@ -1,6 +1,6 @@
 {
-  "name": "react-sticky",
-  "version": "6.0.1",
+  "name": "bildeco-react-sticky",
+  "version": "6.0.2",
   "description": "Sticky component for React",
   "main": "lib/index.js",
   "scripts": {
@@ -12,23 +12,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/captivationsoftware/react-sticky"
+    "url": "https://github.com/bildeco/react-sticky"
   },
   "keywords": [
     "react-component",
     "React",
     "Sticky"
   ],
-  "author": "Captivation Software",
+  "author": "Veri Ferdiansyah",
   "license": "MIT",
-  "homepage": "https://github.com/captivationsoftware/react-sticky",
+  "homepage": "https://github.com/bildeco/react-sticky",
   "dependencies": {
-    "prop-types": "^15.5.8",
+    "prop-types": "^15.6.0",
     "raf": "^3.3.0"
   },
   "peerDependencies": {
-    "react": "^15.3.0",
-    "react-dom": "^15.3.0"
+    "react": "^15.3.0 || ^16.0.0",
+    "react-dom": "^15.3.0 || ^16.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.23.1",
